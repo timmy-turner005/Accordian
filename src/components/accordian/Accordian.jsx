@@ -58,7 +58,7 @@ export default function Accordian() {
             </div>
           ))
         ) : (
-          <div>No data found</div>
+          <div>No data found, input some!</div>
         )}
       </div>
     </div>
